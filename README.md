@@ -1,2 +1,2 @@
 # Data-Science-project
-This master branch has various sub branch which shows the various project i had been working.
+The Main Aim of this repo is to walk through the basics of Data Science and clear all the problem related to it
